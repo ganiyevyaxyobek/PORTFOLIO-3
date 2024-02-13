@@ -1,0 +1,58 @@
+.hero {
+    background: #f4f4f4;
+  }
+  
+  .hero-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 31px;
+    padding-bottom: 22px;
+  
+  }
+  .hero-wrapper {
+  width: 492px;
+  
+  }
+  .hero-parag {
+    color: #000;
+  font-family: Roboto;
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 130.435% */
+  letter-spacing: 1.75px;
+  
+  }
+  .hero-text {
+    color: #172c46;
+  font-family: Roboto;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 72px; /* 150% */
+  letter-spacing: 0.24px;
+  padding-top: 31px;
+  padding-bottom: 49px;
+  }
+  .hero-box {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+  }
+  .hero-i-p {
+    margin-left: 10px;
+  }
+  .one {
+    color :red
+  }
+  .two {
+  }
+  @media (max-width: 1366px) {
+    .hero-box {
+      left: -90%;
+    }
+    .hero-inner {
+      align-items: center;
+    }
+  }

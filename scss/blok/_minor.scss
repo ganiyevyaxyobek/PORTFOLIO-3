@@ -1,0 +1,72 @@
+.crypto-inner {
+    padding-top: 160px;
+    padding-bottom: 180px;
+  }
+  .crypto-paragraph {
+    color: #000000;
+    text-align: center;
+    font-family: League Spartan;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 54px; /* 135% */
+    margin-bottom: 16px;
+  }
+  .crypto-text {
+    max-width: 699px;
+    color: #000000;
+    text-align: center;
+    font-family: League Spartan;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .crypto-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .crypto-item {
+    max-width: 358px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .crypto-box {
+    border-radius: 10px;
+    background: #000000;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  .crypto-item-paragraph {
+    color: #000000;
+    text-align: center;
+    font-family: League Spartan;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 100% */
+    margin-bottom: 10px;
+  }
+  .crypto-item-text {
+    color: #000000;
+    text-align: center;
+    font-family: League Spartan;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 218.182% */
+    margin-bottom: 10px;
+  }
+  .crypto-item-img {
+    margin-left: 5px;
+  }
+  
